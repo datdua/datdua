@@ -1,0 +1,36 @@
+*{
+    overflow-x:hidden;
+    overflow-y: hidden;
+}
+
+.login_title{
+    width: 100%;
+}
+
+.register{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    transform:translateX(-300);
+    width: 350px;
+    height: 215px;
+    background-color: rgba(255, 255, 255, 0.669);
+    border-radius: 10px;
+    box-shadow: 6px -5px 11px 0px #969696;
+}
+
+.register p{
+    font-size: 30px;   
+    margin-top: 10px; 
+}
+
+.SignWGG{
+    margin-top: -20px;
+}
+
+.register h6{
+    margin-top: 16px;
+}
